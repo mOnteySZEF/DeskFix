@@ -15,6 +15,7 @@ Uporządkowanie procesu zgłaszania awarii w jednym miejscu, skrócenie czasu re
 ## Stack technologiczny
 Stack deweloperski będzie się zmieniał i rozszerzał wraz z rozwojem aplikacji. Na start wykorzystujemy:
 
+- **React** – główna warstwa frontendowa aplikacji.
 - **MariaDB** – użytkownicy, sale, sprzęt, zgłoszenia, statusy.
 - **MongoDB** – komentarze w wątku zgłoszenia, metadane załączników, log zmian statusu.
 - **jQuery UI** – obsługa drag & drop na tablicy Kanban.
