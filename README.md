@@ -28,3 +28,5 @@ Stack deweloperski będzie się zmieniał i rozszerzał wraz z rozwojem aplikacj
 - Podział na role i uprawnienia (uczeń, pracownik, technik, admin).
 - Dodawanie zdjęć i załączników bezpośrednio przy zgłoszeniu usterki.
 - Przepisanie tablicy Kanban w pełni na Reacta wraz z rozwojem projektu.
+
+<!-- dodanie wersji do node i cite, struktura i jak odpalić apke -->
